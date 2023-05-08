@@ -3,7 +3,7 @@ library(picante)
 library(FD)
 library(hillR)
 
-library(car)
+library(car) #use scatterplotmatrix to show correlations
 
 
 setwd("~/Dropbox/2018WorkingFiles/Admin/Courses/Courses_short/BEF-Stressors/comp_sel example")
